@@ -1,0 +1,102 @@
+﻿{
+  "applicationCaption": "A",
+  "applicationTitle": "A",
+  "items": [
+    {
+      "link": null,
+      "menuName": "автоматизация-продажи",
+      "caption": "Автоматизация продажи",
+      "title": "Автоматизация продажи",
+      "children": [
+        {
+          "link": null,
+          "menuName": "отчеты",
+          "caption": "Отчеты",
+          "title": "Отчеты",
+          "children": [
+            {
+              "link": "i-i-s-avtomatizaciya-prodazhi-отчет-о-продажах-l",
+              "menuName": null,
+              "caption": "Отчет о продажах",
+              "title": "",
+              "children": null
+            },
+            {
+              "link": "i-i-s-avtomatizaciya-prodazhi-остат-на-склад-l",
+              "menuName": null,
+              "caption": "Остатки на складе",
+              "title": "",
+              "children": null
+            }
+          ]
+        },
+        {
+          "link": null,
+          "menuName": "справочники",
+          "caption": "Справочники",
+          "title": "Справочники",
+          "children": [
+            {
+              "link": "i-i-s-avtomatizaciya-prodazhi-организации-l",
+              "menuName": null,
+              "caption": "Организации",
+              "title": "",
+              "children": null
+            },
+            {
+              "link": "i-i-s-avtomatizaciya-prodazhi-склады-l",
+              "menuName": null,
+              "caption": "Склады",
+              "title": "",
+              "children": null
+            },
+            {
+              "link": "i-i-s-avtomatizaciya-prodazhi-номенклатуры-l",
+              "menuName": null,
+              "caption": "Номенклатуры",
+              "title": "",
+              "children": null
+            },
+            {
+              "link": "i-i-s-avtomatizaciya-prodazhi-ед-измер-l",
+              "menuName": null,
+              "caption": "Ед измер",
+              "title": "",
+              "children": null
+            },
+            {
+              "link": "i-i-s-avtomatizaciya-prodazhi-подразеления-l",
+              "menuName": null,
+              "caption": "Подразеления",
+              "title": "",
+              "children": null
+            },
+            {
+              "link": "i-i-s-avtomatizaciya-prodazhi-контрагенты-l",
+              "menuName": null,
+              "caption": "Контрагенты",
+              "title": "",
+              "children": null
+            }
+          ]
+        },
+        {
+          "link": null,
+          "menuName": "договора",
+          "caption": "Договора",
+          "title": "Договора",
+          "children": [
+            {
+              "link": "i-i-s-avtomatizaciya-prodazhi-заказ-покуп-l",
+              "menuName": null,
+              "caption": "Заказ покупателя",
+              "title": "",
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

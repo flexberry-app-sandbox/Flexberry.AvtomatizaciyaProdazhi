@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-avtomatizaciya-prodazhi-остат-на-склад-e",
+  "editForm": "i-i-s-avtomatizaciya-prodazhi-остат-на-склад-e",
+  "external": false,
+  "caption": "Остат на склад",
+  "name": "IISAvtomatizaciya_prodazhiОстатНаСкладL",
+  "className": "ОстатНаСкладL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-avtomatizaciya-prodazhi-остат-на-склад",
+      "modelProjection": "ОстатНаСкладL"
+    }
+  ]
+}

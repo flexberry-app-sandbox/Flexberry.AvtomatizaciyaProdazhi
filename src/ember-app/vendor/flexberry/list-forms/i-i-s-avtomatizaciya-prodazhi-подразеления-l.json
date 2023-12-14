@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-avtomatizaciya-prodazhi-подразеления-e",
+  "editForm": "i-i-s-avtomatizaciya-prodazhi-подразеления-e",
+  "external": false,
+  "caption": "Подразеления",
+  "name": "IISAvtomatizaciya_prodazhiПодразеленияL",
+  "className": "ПодразеленияL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-avtomatizaciya-prodazhi-подразеления",
+      "modelProjection": "ПодразеленияL"
+    }
+  ]
+}

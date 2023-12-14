@@ -1,0 +1,4 @@
+import IISAvtomatizaciya_prodazhiЗаказПокупEController from '../i-i-s-avtomatizaciya-prodazhi-заказ-покуп-e';
+
+var IISAvtomatizaciya_prodazhiЗаказПокупENewController = IISAvtomatizaciya_prodazhiЗаказПокупEController;
+export default IISAvtomatizaciya_prodazhiЗаказПокупENewController;

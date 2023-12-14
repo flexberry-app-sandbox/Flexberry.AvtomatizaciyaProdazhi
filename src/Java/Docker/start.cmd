@@ -1,0 +1,1 @@
+docker-compose -p avtomatizaciya_prodazhi-java up -d

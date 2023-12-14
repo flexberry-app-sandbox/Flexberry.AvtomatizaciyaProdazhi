@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1"
+	xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistencehttp://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+    <persistence-unit name="Olingo4PG">
+        <class>Avtomatizaciya_prodazhi.model.Podrazeleniya</class>
+        <class>Avtomatizaciya_prodazhi.model.TCHTovarIUslug</class>
+        <class>Avtomatizaciya_prodazhi.model.OstatNaSklad</class>
+        <class>Avtomatizaciya_prodazhi.model.Kontragenty</class>
+        <class>Avtomatizaciya_prodazhi.model.ZakazPokup</class>
+        <class>Avtomatizaciya_prodazhi.model.OtchetOProdazhax</class>
+        <class>Avtomatizaciya_prodazhi.model.Sklady</class>
+        <class>Avtomatizaciya_prodazhi.model.Nomenklatury</class>
+        <class>Avtomatizaciya_prodazhi.model.Organizacii</class>
+        <class>Avtomatizaciya_prodazhi.model.EdIzmer</class>
+        <class>Avtomatizaciya_prodazhi.model.FlexberryAdvLimit</class>
+        <class>Avtomatizaciya_prodazhi.model.NewPlatformFlexberryFlexberryUserSetting</class>
+        <class>Avtomatizaciya_prodazhi.model.NewPlatformFlexberryServicesLock</class>
+        <class>Avtomatizaciya_prodazhi.model.IISCaseberryLoggingObjectsApplicationLog</class>
+
+    </persistence-unit>
+</persistence>

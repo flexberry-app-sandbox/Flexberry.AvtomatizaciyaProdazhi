@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-avtomatizaciya-prodazhi-отчет-о-продажах-e",
+  "editForm": "i-i-s-avtomatizaciya-prodazhi-отчет-о-продажах-e",
+  "external": false,
+  "caption": "Отчет о продажах",
+  "name": "IISAvtomatizaciya_prodazhiОтчетОПродажахL",
+  "className": "ОтчетОПродажахL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-avtomatizaciya-prodazhi-отчет-о-продажах",
+      "modelProjection": "ОтчетОПродажахL"
+    }
+  ]
+}

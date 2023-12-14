@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-avtomatizaciya-prodazhi-организации-e",
+  "editForm": "i-i-s-avtomatizaciya-prodazhi-организации-e",
+  "external": false,
+  "caption": "Организации",
+  "name": "IISAvtomatizaciya_prodazhiОрганизацииL",
+  "className": "ОрганизацииL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-avtomatizaciya-prodazhi-организации",
+      "modelProjection": "ОрганизацииL"
+    }
+  ]
+}

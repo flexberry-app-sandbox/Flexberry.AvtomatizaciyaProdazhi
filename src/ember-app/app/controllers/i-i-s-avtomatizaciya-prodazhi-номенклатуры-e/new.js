@@ -1,0 +1,4 @@
+import IISAvtomatizaciya_prodazhiНоменклатурыEController from '../i-i-s-avtomatizaciya-prodazhi-номенклатуры-e';
+
+var IISAvtomatizaciya_prodazhiНоменклатурыENewController = IISAvtomatizaciya_prodazhiНоменклатурыEController;
+export default IISAvtomatizaciya_prodazhiНоменклатурыENewController;

@@ -1,0 +1,4 @@
+import IISAvtomatizaciya_prodazhiПодразеленияEController from '../i-i-s-avtomatizaciya-prodazhi-подразеления-e';
+
+var IISAvtomatizaciya_prodazhiПодразеленияENewController = IISAvtomatizaciya_prodazhiПодразеленияEController;
+export default IISAvtomatizaciya_prodazhiПодразеленияENewController;

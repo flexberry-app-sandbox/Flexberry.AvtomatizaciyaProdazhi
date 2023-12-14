@@ -1,0 +1,4 @@
+import IISAvtomatizaciya_prodazhiОтчетОПродажахEController from '../i-i-s-avtomatizaciya-prodazhi-отчет-о-продажах-e';
+
+var IISAvtomatizaciya_prodazhiОтчетОПродажахENewController = IISAvtomatizaciya_prodazhiОтчетОПродажахEController;
+export default IISAvtomatizaciya_prodazhiОтчетОПродажахENewController;

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-avtomatizaciya-prodazhi-ед-измер-e",
+  "editForm": "i-i-s-avtomatizaciya-prodazhi-ед-измер-e",
+  "external": false,
+  "caption": "Ед измер",
+  "name": "IISAvtomatizaciya_prodazhiЕдИзмерL",
+  "className": "ЕдИзмерL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-avtomatizaciya-prodazhi-ед-измер",
+      "modelProjection": "ЕдИзмерL"
+    }
+  ]
+}

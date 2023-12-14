@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Ед измер",
+  "name": "IISAvtomatizaciya_prodazhiЕдИзмерE",
+  "className": "ЕдИзмерE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-avtomatizaciya-prodazhi-ед-измер",
+      "modelProjection": "ЕдИзмерE"
+    }
+  ]
+}
